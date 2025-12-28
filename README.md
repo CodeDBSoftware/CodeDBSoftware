@@ -1,5 +1,5 @@
 # 💫 About Me:
-we are  Currenty Working Website development in Laravel PHP , App Development  with Flutter , React native android and IOS.<br>I'm Looking  to collaborate on Website and App development . 
+WE are  currently working on Website development in Laravel PHP , App Development  with Flutter , React native android and IOS.<br>I'm Looking  to collaborate on Website and App development . 
 
 
 # 💻 Tech Stack:
